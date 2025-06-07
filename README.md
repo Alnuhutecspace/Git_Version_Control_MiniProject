@@ -1,1 +1,1 @@
-# Git_Version_Control_MiniProject
+# Git_Version_Control_Basics_MiniProject
